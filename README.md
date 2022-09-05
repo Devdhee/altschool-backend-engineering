@@ -2,7 +2,7 @@
 
 # Altschool Backend Engineering Resource
 
-This repository contains the resources used to learn Nodejs, Expressjs and Test Driven Development. These resources are divided into three weeks under which had the following topics:
+This repository contains the resources used to learn Nodejs, Expressjs and Test Driven Development. In **week 2** we focused on ```Nodejs```, in **week 3**, ```cross origin resource sharing```, ```authentication``` and ```test driven development```, while in **week four** we focused on ```Expressjs```. These resources are divided into three weeks under which had the following topics:
 
 ## Week Two
 
